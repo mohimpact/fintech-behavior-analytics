@@ -1,5 +1,4 @@
 .env
-*.parquet
 airflow/logs/
 airflow/db/
 __pycache__/
