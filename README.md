@@ -75,6 +75,17 @@ Open fintech_analytics.ipynb in VS Code and run all cells top to bottom.
 - Page 2 User Segmentation: Engagement scores, device usage, lifecycle by segment, top users table
 - Page 3 Revenue Insights: Monthly revenue trend, revenue by city, revenue per user segment
 
+## Dashboard Screenshots
+
+### Page 1 — Executive Overview
+![Executive Overview](dashboards/screenshots/page1_executive_overview.png)
+
+### Page 2 — User Segmentation
+![User Segmentation](dashboards/screenshots/page2_user_segmentation.png)
+
+### Page 3 — Revenue Insights
+![Revenue Insights](dashboards/screenshots/page3_revenue_insights.png)
+
 ## Business Insights Discovered
 1. Power users (10%) drive 60% of revenue — retention is the highest priority
 2. DAU/MAU ratio of 18% is below the 20% healthy engagement threshold
@@ -91,8 +102,8 @@ Open fintech_analytics.ipynb in VS Code and run all cells top to bottom.
 6. Send formatted report to Slack data-insights channel every morning
 
 ## Author
-Mohimpact
-Built as part of ALX Data Analytics Portfolio — April 2026
+Muhammad Umar Abubakar (Mohimpact) Department of Agric and Environmental Engineerimg, Bayero University Kano.
+
 
 ## License
 MIT License
