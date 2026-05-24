@@ -1,5 +1,8 @@
 # Real-Time Customer Behavior Analytics Platform
 
+## Dashboard Demo
+📺 [Watch Interactive Demo](https://www.loom.com/share/eba45beae28242ec9181f932a41ba3c4)
+
 ## Project Overview
 A three-layer analytics system tracking customer behavior for a Nigerian fintech app (PiggyVest/Cowrywise style). Built to demonstrate production-grade data engineering and analytics skills.
 
